@@ -1,0 +1,7 @@
+org\atelier\voitures\controller\VoitureController.class
+org\atelier\voitures\VoituresApplication.class
+org\atelier\voitures\config\WebMvcConfig.class
+org\atelier\voitures\service\VoitureService.class
+org\atelier\voitures\exception\ResourceNotFoundException.class
+org\atelier\voitures\core\Voitures.class
+org\atelier\voitures\repository\VoitureRepository.class
